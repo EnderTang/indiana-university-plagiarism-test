@@ -22,6 +22,6 @@ text2 = "According to Howard, Barrett, and Frick (2010), in order to make approp
 result = has_consecutive_duplicate_words(text1, text2)
 
 if result:
-    print("!!!7 words yes!!!")
+    print("7 words matched, then think about "Is the direct word-for-word quote missing any of the following:" ")
 else:
-    print("no")
+    print("7 words don't matched, then think about "Is the paraphrased idea missing any of the following:" ")
