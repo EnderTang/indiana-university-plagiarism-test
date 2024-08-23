@@ -3,7 +3,7 @@ Indiana university plagiarism test
 This program replace the first "7 words" decision making by using python codes.
 
 ## Step 1
-Copy the codes to online python compiler.  
+Copy the **main.py** codes to online python compiler.  
 Codes are in this folders.  
 ![](https://raw.githubusercontent.com/EnderTang/indiana-university-plagiarism-test/main/copy%20and%20%20paste.png)  
 
