@@ -11,6 +11,6 @@ Codes are in this folders.
 run the codes, and replace the text with your own questions.  
 ![](https://github.com/EnderTang/indiana-university-plagiarism-test/blob/main/run.png?raw=true)  
 
-## Notion!!
+## Note!!
 This program replace the first decision making by using python codes!  
 ![](https://github.com/EnderTang/indiana-university-plagiarism-test/blob/main/decision%20tree.png?raw=true)
